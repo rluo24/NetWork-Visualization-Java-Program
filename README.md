@@ -1,1 +1,1 @@
-# Selfsorting-Datasets-
+# SNetwork Visualization Java Program-
